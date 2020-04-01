@@ -8,7 +8,8 @@ from nltk.corpus import stopwords
 
 from google import google
 
-filename = 'GLEVI00101_Application.pdf'
+#This should be the name/path to the pdf file of your application.
+filename = ''
 
 #Extracts patent application from a pdf file into a string
 def extract_text():
