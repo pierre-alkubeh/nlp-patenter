@@ -1,4 +1,4 @@
-# nlp patenter
+# NLP Patenter
 Patent application analysis repository for analyzing chances for success and improving the application. Created by Pierre Alkubeh of Leviasec Corporation. The project is open-source, but we can analyze any patent application for you at www.leviasec.com .
 
 # patent_success_analysis.py
